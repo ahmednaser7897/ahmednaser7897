@@ -1,19 +1,20 @@
-<!-- 🔥 Animated Header -->
 <h1 align="center">Hi 👋, I'm Ahmed Naser</h1>
-<h3 align="center">Flutter Developer building scalable real-world systems 🚀</h3>
+<h3 align="center">I turn complex ideas into scalable Flutter apps 📱</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter+Developer;Building+Production+Apps;Clean+Architecture+Enthusiast;API+%26+System+Engineer&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter+Developer;Building+Real+World+Apps;ERP+%7C+Delivery+%7C+AI+Systems;Clean+Architecture+Enthusiast&center=true&width=500&height=45">
 </p>
 
 ---
 
 ## 🧠 About Me
-- 📱 Mid-Level Flutter Developer with real production experience  
-- 🚀 Built **15+ apps** used by thousands of users (ERP, Delivery, AI systems)  
-- 🧩 Focused on **clean architecture, scalability, and performance**  
-- 🔌 Strong experience with APIs, Firebase, real-time systems  
-- ⚙️ I don’t just build UI — I build **complete mobile systems**
+I don’t just build mobile apps — I build **complete systems**.
+
+- 📱 Flutter Developer with real production experience  
+- 🚀 Built **15+ apps** used by thousands of users  
+- 🧩 Focused on **clean architecture & scalable systems**  
+- 🔌 Strong in APIs, Firebase, real-time features  
+- 🌍 Worked on products across multiple countries  
 
 ---
 
@@ -27,48 +28,86 @@
 ## 🚀 Featured Projects
 
 ### 🟣 SALIS ERP System (25K+ Users)
-- Built and contributed to a large-scale ERP system used in Saudi Arabia
-- Implemented employee tracking with geofencing and attendance management
-- Developed in-app reporting & analytics modules
-- Worked on missions tracking, bonds management, invoices, and authentication
+- Large-scale ERP system used in Saudi Arabia  
+- Employee tracking (geofencing), attendance & reporting  
+- Missions tracking, bonds management, invoices & orders  
+- Built for real business operations at scale  
 
 ---
 
 ### 🟣 Deals – Smart Transportation & Delivery System
-- Engineered a unified ride-hailing + delivery platform
-- Built full user flows (rides, orders, cart, checkout)
-- Implemented real-time tracking and order management
-- Developed dual driver modes (ride / delivery)
+- Unified ride-hailing + delivery platform  
+- Real-time tracking & dynamic order system  
+- Multi-app ecosystem (User / Captain / Shop)  
+
+📱 Apps:
+- 🟢 User App: https://play.google.com/  
+- 🟢 Shop App: https://play.google.com/  
+- 🍎 iOS App: https://apps.apple.com/  
+- 🚗 Captain App: https://play.google.com/
 
 ---
 
 ### 🟣 Aqaraty – Property Management System
-- Built a complete property and tenant management solution
-- Implemented rent tracking, payments, and contract history
-- Focused on scalable architecture and clean data flow
+- Full real estate management solution  
+- Tenant, apartment, and rent tracking system  
+- Payment history & contract management  
+
+📱 Apps:
+- 🟢 Android: https://play.google.com/  
+- 🍎 iOS: https://apps.apple.com/
 
 ---
 
 ### 🟣 Amaly – Digital Healthcare Platform
-- Implemented deep linking across doctor profiles, posts, and groups
-- Improved navigation and cross-app user experience
+- Deep linking across doctors, posts & groups  
+- Improved navigation and user flow  
+
+📱 Apps:
+- 🟢 Patient App: https://play.google.com/  
+- 🍎 Patient iOS: https://apps.apple.com/  
+- 🟢 Doctor App: https://play.google.com/  
+- 🍎 Doctor iOS: https://apps.apple.com/
 
 ---
 
 ### 🟣 Hadiya – AI-Powered Gift App
-- Built AI-assisted chat for personalized recommendations
-- Developed dynamic UX based on user behavior
+- AI chat-based gift recommendation system  
+- Personalized user experience  
+
+📱 App:
+- 🍎 iOS: https://apps.apple.com/
 
 ---
 
 ### 🟣 Flora – E-commerce & Delivery Ecosystem
-- Worked on multi-app system (User / Shop / Driver)
-- Built ordering, delivery, and tracking flows
+- Multi-app system (User / Shop / Driver)  
+- Ordering, delivery & tracking system  
+
+📱 Apps:
+- 🍎 User App: https://apps.apple.com/  
+- 🍎 Shop App: https://apps.apple.com/  
+- 🍎 Driver App: https://apps.apple.com/
 
 ---
 
 ### 🟣 Sahla – Marketplace & Services App
-- Redesigned UI/UX for better usability and consistency
+- Improved UI/UX and usability  
+- Better navigation and performance  
+
+📱 Apps:
+- 🟢 Android: https://play.google.com/  
+- 🍎 iOS: https://apps.apple.com/
+
+---
+
+### 🟣 Iraq Plus – Business Offers Platform
+- Offers and deals management system  
+- Performance optimization & smooth UX  
+
+📱 Apps:
+- 🍎 App 1: https://apps.apple.com/  
+- 🍎 App 2: https://apps.apple.com/
 
 ---
 
@@ -80,11 +119,11 @@
 
 ---
 
-## 🧩 What I Focus On
-- Clean Architecture & Scalable Systems
-- Performance Optimization
-- Real-time Features (tracking, sockets, live updates)
-- Production-ready Apps (not just demos)
+## 🧩 What I Do
+- Build scalable mobile systems (not just UI)
+- Integrate complex APIs & backend logic
+- Handle real-time features (tracking, sockets)
+- Deliver production-ready apps
 
 ---
 
@@ -103,4 +142,4 @@
 
 ---
 
-⭐ Building systems, not just apps.
+⭐ I build apps that people actually use.
