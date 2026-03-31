@@ -33,6 +33,8 @@ I don’t just build mobile apps — I build **complete systems**.
 - Missions tracking, bonds management, invoices & orders  
 - Built for real business operations at scale  
 
+🌐 [Website](https://saliserp.com/)
+
 ---
 
 ### 🟣 Deals – Smart Transportation & Delivery System
@@ -41,10 +43,10 @@ I don’t just build mobile apps — I build **complete systems**.
 - Multi-app ecosystem (User / Captain / Shop)  
 
 📱 Apps:
-- 🟢 User App: https://play.google.com/  
-- 🟢 Shop App: https://play.google.com/  
-- 🍎 iOS App: https://apps.apple.com/  
-- 🚗 Captain App: https://play.google.com/
+- 🟢 [User App](https://play.google.com/store/apps/details?id=com.engaz.massarUser)  
+- 🟢 [Shop App](https://play.google.com/store/apps/details?id=engaz.technology.deals.shop)  
+- 🚗 [Captain App](https://play.google.com/store/apps/details?id=com.engaz.massarCaptainsApp)  
+- 🍎 [iOS App](https://apps.apple.com/us/app/deals-shop-%D8%AF%D9%8A%D9%84%D8%B2-%D8%B4%D9%88%D8%A8/id6751503786)
 
 ---
 
@@ -54,8 +56,8 @@ I don’t just build mobile apps — I build **complete systems**.
 - Payment history & contract management  
 
 📱 Apps:
-- 🟢 Android: https://play.google.com/  
-- 🍎 iOS: https://apps.apple.com/
+- 🟢 [Android](https://play.google.com/store/apps/details?id=com.engaz.aqaraty)  
+- 🍎 [iOS](https://apps.apple.com/us/app/aqaraty-%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA%D9%8A/id6749689592)
 
 ---
 
@@ -64,10 +66,10 @@ I don’t just build mobile apps — I build **complete systems**.
 - Improved navigation and user flow  
 
 📱 Apps:
-- 🟢 Patient App: https://play.google.com/  
-- 🍎 Patient iOS: https://apps.apple.com/  
-- 🟢 Doctor App: https://play.google.com/  
-- 🍎 Doctor iOS: https://apps.apple.com/
+- 🟢 [Patient App](https://play.google.com/store/apps/details?id=com.Engazz.amly)  
+- 🍎 [Patient iOS](https://apps.apple.com/us/app/amaly/id6739183056)  
+- 🟢 [Doctor App](https://play.google.com/store/apps/details?id=com.engaz.amalydoctor)  
+- 🍎 [Doctor iOS](https://apps.apple.com/us/app/amaly-doctor/id6739183790)
 
 ---
 
@@ -76,7 +78,7 @@ I don’t just build mobile apps — I build **complete systems**.
 - Personalized user experience  
 
 📱 App:
-- 🍎 iOS: https://apps.apple.com/
+- 🍎 [iOS](https://apps.apple.com/us/app/hadiya-%D9%87%D8%AF%D9%8A%D9%87/id6745960694)
 
 ---
 
@@ -85,9 +87,9 @@ I don’t just build mobile apps — I build **complete systems**.
 - Ordering, delivery & tracking system  
 
 📱 Apps:
-- 🍎 User App: https://apps.apple.com/  
-- 🍎 Shop App: https://apps.apple.com/  
-- 🍎 Driver App: https://apps.apple.com/
+- 🍎 [User App](https://apps.apple.com/us/app/flora-%D9%81%D9%84%D9%88%D8%B1%D8%A7/id6523437382)  
+- 🍎 [Shop App](https://apps.apple.com/us/app/flora-shop-%D9%81%D9%84%D9%88%D8%B1%D8%A7-%D8%B4%D9%88%D8%A8/id6749001709)  
+- 🍎 [Driver App](https://apps.apple.com/us/app/flora-driver/id6523437155)
 
 ---
 
@@ -96,8 +98,8 @@ I don’t just build mobile apps — I build **complete systems**.
 - Better navigation and performance  
 
 📱 Apps:
-- 🟢 Android: https://play.google.com/  
-- 🍎 iOS: https://apps.apple.com/
+- 🟢 [Android](https://play.google.com/store/apps/details?id=com.finn.htlaa2e.engaz)  
+- 🍎 [iOS](https://apps.apple.com/eg/app/%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%B3%D9%87%D9%84%D8%A9/id6737232481?l=ar)
 
 ---
 
@@ -106,8 +108,8 @@ I don’t just build mobile apps — I build **complete systems**.
 - Performance optimization & smooth UX  
 
 📱 Apps:
-- 🍎 App 1: https://apps.apple.com/  
-- 🍎 App 2: https://apps.apple.com/
+- 🍎 [App 1](https://apps.apple.com/us/app/iraqi-plus/id6670759105)  
+- 🍎 [App 2](https://apps.apple.com/us/app/iraq-plus-co-%D8%B9%D8%B1%D8%A7%D9%82-%D8%A8%D9%84%D8%B3-%D8%B4%D8%B1%D9%83%D8%A9/id6746558156)
 
 ---
 
@@ -129,14 +131,17 @@ I don’t just build mobile apps — I build **complete systems**.
 
 ## 📫 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahmednaser7897/" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmed-naser-9a6342227/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Naser-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://www.facebook.com/ahmd.nasr.740492" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Ahmed%20Naser-blue?style=for-the-badge&logo=facebook" />
+  </a>
+  <a href="https://www.instagram.com/ahmed.nasser909" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Ahmed%20Naser-pink?style=for-the-badge&logo=instagram" />
   </a>
   <a href="http://wa.me/+201121362555" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-green?style=for-the-badge&logo=whatsapp" />
-  </a>
-  <a href="https://drive.google.com/drive/folders/1ryP4gob6Kw9wwcFgLbwZPhsf475KEMJT?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-View%20Projects-orange?style=for-the-badge&logo=google-drive" />
   </a>
 </p>
 
